@@ -5,7 +5,7 @@
 You can reach me by email at sakhilekhuzwayo454@gmail.com or on Twitter at @bySakhile.
 
 ⚡ Fun fact
-I am a self-taught developer and have been learning to code for the past 2 years. In my free time, I enjoy hiking, reading, and trying new recipes. 
+I am a self-taught web developer and have been learning concepts in software development for the past 2 years. In my free time, I enjoy hiking, reading, and trying new recipes. 
 
 SakhileKhuzwayo222/SakhileKhuzwayo222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
