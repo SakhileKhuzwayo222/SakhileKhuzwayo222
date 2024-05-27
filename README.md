@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SakhileKhuzwayo222/SakhileKhuzwayo222/blob/438d872304b53dc33e35e81682b358394d6dfa12/1-removebg-prevdbiew.png" alt="Sakhile's Profile Image" width="500">
+  <img src="https://github.com/SakhileKhuzwayo222/SakhileKhuzwayo222/blob/438d872304b53dc33e35e81682b358394d6dfa12/1-removebg-prevdbiew.png" alt="Sakhile's Profile Image" width="250">
 </p>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SakhileKhuzwayo222.visitor-badge&left_color=red&right_color=green" align="right" />
