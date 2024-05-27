@@ -1,12 +1,14 @@
 <img align="right" src="htttps://visitor-badge.loabi.icu/badge?page_id=salesp07.salep07"/>
 <h1 align='center">
-  <a href="https://git.io/typing.svg>
+   <a href="https://git.io/typing.svg>
   <image src="https://readme.typing.svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there+Welcome+to+my+GitHub+profile!+🛸🌌/>
   </a>
-<h1>
-
+</h1>
+  
+<hr/>
 <h3 align="center">About Me:</h3>
-<br/>
+<hr/>
+
 I'm Sakhile Khuzwayo 👋 a software engineering student, with a diverse skill set in various programming languages and technologies.
 design, develop, and maintain software systems, prioritizing mostly backend development.
 
