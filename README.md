@@ -6,13 +6,16 @@
    </a>
 </h1>
 
-<hr/>
-<h3 align="center">About Me:</h3>
-<hr/>
 
 I'm Sakhile Khuzwayo 👋, a software engineering student with a diverse skill set in various programming languages and technologies. I design, develop, and maintain software systems, prioritizing mostly backend development.
 
 Here you'll find a variety of projects and repositories that reflect my journey and interests.
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,cs,kubernetes,dotnet,maven,mysql,php,react,js,html,css,bootstrap" />
+  </a>
+</p>
 
 ### Currently working on:
 - Enhancing my skills in web development, DSA, and application development with a primary focus on SSR, APIs, Authentication and Authorization (AuthN and AuthZ), and database management.
@@ -20,7 +23,6 @@ Here you'll find a variety of projects and repositories that reflect my journey 
   
 ![Contributions Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-### Technical Skills
 
 ### 👯 Looking to collaborate on:
 Exciting open-source projects and innovative tech solutions.
@@ -57,11 +59,7 @@ Feel free to check out my repositories, open issues, and contribute if you're in
 
 Thank you for visiting my profile! 😊
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,cs,kubernetes,dotnet,maven,mysql,php,react,js,html,css,bootstrap" />
-  </a>
-</p>
+
 
 
 
