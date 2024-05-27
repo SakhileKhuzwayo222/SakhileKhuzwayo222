@@ -8,17 +8,7 @@
     </a>
   </h1>
 </div>
-
-I am a software engineering student with a diverse skill set in various programming languages and technologies. I specialize in designing, developing, and maintaining software systems, with a focus on backend development.
-
-Feel free to explore my repositories, which reflect my coding journey and interests.
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,cs,kubernetes,dotnet,maven,mysql,php,graphql,react,js,html,css,bootstrap" />
-  </a>
-</p>
-
+<hr>
 <h2 align="left">Connect with Me</h2>
 
 <p align="center">
@@ -38,6 +28,10 @@ Feel free to explore my repositories, which reflect my coding journey and intere
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
+</hr>
+I am a software engineering student with a diverse skill set in various programming languages and technologies. I specialize in designing, developing, and maintaining software systems, with a focus on backend development.
+
+Feel free to explore my repositories, which reflect my coding journey and interests.
 
 <h2 align="left">My Interests</h2>
 
@@ -49,6 +43,13 @@ Feel free to explore my repositories, which reflect my coding journey and intere
 
 - Enhancing my skills in web development, data structures and algorithms, and application development with a primary focus on server-side rendering, APIs, authentication and authorization, and database management.
 - Exploring machine learning and contributing to open-source projects.
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,cs,kubernetes,dotnet,maven,mysql,php,graphql,react,js,html,css,bootstrap" />
+  </a>
+</p>
+
 
 <h3 align="center">GitHub Stats</h3>
 
