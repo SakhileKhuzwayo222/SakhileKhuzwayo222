@@ -26,7 +26,7 @@ Here you'll find a variety of projects and repositories that reflect my journey 
 
 ##Get In Touch!
 
-<h2 align="left">My contributions</h2>
+<h2 align="left">My interests</h2>
 
 🌐 Web Development:**
 Creating responsive and dynamic web applications.
