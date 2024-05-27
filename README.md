@@ -14,13 +14,13 @@ Here you'll find a variety of projects and repositories that reflect my journey 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,cs,kubernetes,dotnet,maven,mysql,php,react,js,html,css,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=java,spring,cs,kubernetes,dotnet,maven,mysql,php,graph1l,react,js,html,css,bootstrap" />
   </a>
 </p>
 
 <h2 align="left">My contributions</h2>
-- [LinkedIn](https://www.linkedin.com/in/sakhilekhuzwayo222)
-- [Email](mailto:sakhilekhuzwayo222@example.com)
+-[LinkedIn](https://www.linkedin.com/in/sakhilekhuzwayo222)
+-[Email](mailto:sakhilekhuzwayo222@example.com)
 - [X (Twitter)](https://x.com/sakhilekhuzwayo222)
 - [YouTube](https://youtube.com/sakhilekhuzwayo222)
 - [Instagram](https://instagram.com/sakhilekhuzwayo222)
