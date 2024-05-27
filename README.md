@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://imgur.com/a/Zmv4WTF" alt="Sakhile's Profile Image" width="250">
-</p>
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SakhileKhuzwayo222.visitor-badge&left_color=red&right_color=green" align="right" />
 
