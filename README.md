@@ -8,7 +8,7 @@
 </h1>
 
 
-I'm Sakhile Khuzwayo 👋, a software engineering student with a diverse skill set in various programming languages and technologies. I design, develop, and maintain software systems, prioritizing mostly backend development.
+I'm Sakhile Khuzwayo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, a software engineering student with a diverse skill set in various programming languages and technologies. I design, develop, and maintain software systems, prioritizing mostly backend development.
 
 Here you'll find a variety of projects and repositories that reflect my journey and interests.
 
