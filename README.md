@@ -17,35 +17,10 @@ Here you'll find a variety of projects and repositories that reflect my journey 
 ### Currently working on:
 - Enhancing my skills in web development, DSA, and application development with a primary focus on SSR, APIs, Authentication and Authorization (AuthN and AuthZ), and database management.
 - Exploring machine learning and contributing to open-source projects.
+  
+![Contributions Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ### Technical Skills
-
-**Backend Development:**
-
-**Languages:**
-[![My Skills](https://skillicons.dev/icons?i=csharp,php,java&theme=light)](https://skillicons.dev)
-
-**Database Management:**
-[![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)
-
-**API Development:**
-[![My Skills](https://skillicons.dev/icons?i=rest&theme=light)](https://skillicons.dev)
-RESTful services using JSON
-
-**Frameworks & Tools:**
-[![My Skills](https://skillicons.dev/icons?i=dotnet,spring&theme=light)](https://skillicons.dev)
-ASP.NET, Spring Boot
-
-**Frontend Integration:**
-
-**Languages:**
-[![My Skills](https://skillicons.dev/icons?i=javascript&theme=light)](https://skillicons.dev)
-
-**Frameworks & Libraries:**
-[![My Skills](https://skillicons.dev/icons?i=react,bootstrap&theme=light)](https://skillicons.dev)
-
-**Web Technologies:**
-[![My Skills](https://skillicons.dev/icons?i=html,css&theme=light)](https://skillicons.dev)
 
 ### 👯 Looking to collaborate on:
 Exciting open-source projects and innovative tech solutions.
@@ -74,7 +49,7 @@ Always eager to learn new technologies and improve my skill set.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SakhileKhuzwayo222&show_icons=true&theme=radical)
 
-![Contributions Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 
 ### Get In Touch
 
@@ -84,7 +59,7 @@ Thank you for visiting my profile! 😊
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,kubernetes,dotnet,maven,mysql,php,react,js,html" />
+    <img src="https://skillicons.dev/icons?i=java,spring,cs,kubernetes,dotnet,maven,mysql,php,react,js,HTML,CSS,bootstrap" />
   </a>
 </p>
 
