@@ -20,7 +20,12 @@ Here you'll find a variety of projects and repositories that reflect my journey 
 ### Currently working on:
 - Enhancing my skills in web development, DSA, and application development with a primary focus on SSR, APIs, Authentication and Authorization (AuthN and AuthZ), and database management.
 - Exploring machine learning and contributing to open-source projects.
-  
+- 
+### GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SakhileKhuzwayo222&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SakhileKhuzwayo222&show_icons=true&theme=radical)
 ![Contributions Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 
@@ -45,11 +50,7 @@ Exploring the potentials of AI and data analysis.
 **📚 Continuous Learning:**
 Always eager to learn new technologies and improve my skill set.
 
-### GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SakhileKhuzwayo222&theme=radical)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SakhileKhuzwayo222&show_icons=true&theme=radical)
 
 
 
