@@ -17,7 +17,30 @@ Here you'll find a variety of projects and repositories that reflect my journey 
   </a>
 </p>
 
-###<h3> Currently working on:</h3>
+📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/sakhilekhuzwayo222)
+- [Email](mailto:sakhilekhuzwayo222@example.com)
+- [X (Twitter)](https://x.com/sakhilekhuzwayo222)
+- [YouTube](https://youtube.com/sakhilekhuzwayo222)
+- [Instagram](https://instagram.com/sakhilekhuzwayo222)
+
+
+
+Get In Touch
+
+My Interests
+
+🌐 Web Development:**
+Creating responsive and dynamic web applications.
+
+🤖 Machine Learning:**
+Exploring the potentials of AI and data analysis.
+
+📚 Continuous Learning:**
+Always eager to learn new technologies and improve my skill set.
+
+
+<h3> Currently working on:</h3>
 - Enhancing my skills in web development, DSA, and application development with a primary focus on SSR, APIs, Authentication and Authorization (AuthN and AuthZ), and database management.
 - Exploring machine learning and contributing to open-source projects.
   
@@ -36,28 +59,9 @@ Exciting open-source projects and innovative tech solutions.
 ### 💬 Ask me about:
 Web development, coding best practices, and the latest in tech trends.
 
-### 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/sakhilekhuzwayo222)
-- [Email](mailto:sakhilekhuzwayo222@example.com)
-
-### My Interests
-
-**🌐 Web Development:**
-Creating responsive and dynamic web applications.
-
-**🤖 Machine Learning:**
-Exploring the potentials of AI and data analysis.
-
-**📚 Continuous Learning:**
-Always eager to learn new technologies and improve my skill set.
-
-
-
-
-
-### Get In Touch
 
 Feel free to check out my repositories, open issues, and contribute if you're interested. Let's build something amazing together!
+
 
 Thank you for visiting my profile! 😊
 
