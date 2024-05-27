@@ -24,7 +24,6 @@ Here you'll find a variety of projects and repositories that reflect my journey 
 ### GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SakhileKhuzwayo222&theme=radical)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SakhileKhuzwayo222&show_icons=true&theme=radical)
 ![Contributions Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
