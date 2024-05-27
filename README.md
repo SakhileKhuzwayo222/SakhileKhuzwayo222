@@ -29,7 +29,7 @@ I am a software engineering student with a diverse skill set in various programm
 
 
 
-<h4>Feel free to explore my repositories, which reflect my coding journey and interests.</h4>
+<h4>Feel free to check out my repositories, open issues, and contribute if you're interested. Let's build something amazing together!</h4>
 
 <h3>Currently Working On</h3>
 
@@ -64,7 +64,7 @@ Exciting open-source projects and innovative tech solutions.
 
 Web development, coding best practices, and the latest tech trends.
 
-Feel free to check out my repositories, open issues, and contribute if you're interested. Let's build something amazing together!
+
 
 Thank you for visiting my profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
