@@ -7,7 +7,8 @@
     </a>
   </h1>
 </div>
-## 🔗 Links
+
+<h3>🔗 Links/h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/sakhilekhuzwayo222" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
