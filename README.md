@@ -1,14 +1,45 @@
-Hi there, I'm Sakhile Khuzwayo 👋
-Welcome to my GitHub profile! Here, you'll find a variety of projects and repositories that reflect my journey and interests.
+Hi there, Welcome to my GitHub profile!
 
-About Me
+About Me:
+I'm Sakhile Khuzwayo 👋 a software engineering student, with a diverse skill set in various programming languages and technologies.
+design, develop, and maintain software systems, prioritizing mostly backend development.
+
+
+Here you'll find a variety of projects and repositories that reflect my journey and interests.
+
 Currently working on:
-Enhancing my skills in web development, machine learning, and open-source contributions.
-🌱 Currently learning: 
-Advanced JavaScript, PHP serverside, database management, APIs, and front-end development using frameworks:
+Enhancing my skills in web development, DSA, and application development with a primary focus on SSR, APIs, Authentication and authorization, and database management.
 
+Im also exploring machine learning, and open-source contributions.
 
-👯 Looking to collaborate on: Exciting open-source projects and innovative tech solutions.
+Backend Development:
+Languages: 
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+C#, PHP, Java
+Database Management:
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+MySQL
+API Development: 
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+RESTful services using JSON
+Frameworks & Tools:
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+ASP.NET, Spring Boot
+
+Frontend Integration:
+Languages: 
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+JavaScript
+Frameworks & Libraries:
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+React.js, Bootstrap
+
+Web Technologies:
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+HTML, CSS
+
+👯 Looking to collaborate on: 
+Exciting open-source projects and innovative tech solutions.
 
 💬 Ask me about:
 Web development, coding best practices, and the latest in tech trends.
