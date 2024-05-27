@@ -17,10 +17,10 @@ Here you'll find a variety of projects and repositories that reflect my journey 
   </a>
 </p>
 
-### Currently working on:
+###<h3> Currently working on:</h3>
 - Enhancing my skills in web development, DSA, and application development with a primary focus on SSR, APIs, Authentication and Authorization (AuthN and AuthZ), and database management.
 - Exploring machine learning and contributing to open-source projects.
-- 
+  
 ### GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SakhileKhuzwayo222&theme=radical)
