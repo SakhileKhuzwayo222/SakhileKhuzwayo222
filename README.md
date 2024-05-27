@@ -1,7 +1,8 @@
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SakhileKhuzwayo222.visitor-badge&left_color=red&right_color=green" align="right" />
-
+<div align="center">
+  <img src="https://github.com/SakhileKhuzwayo222/SakhileKhuzwayo222/blob/9df6b9d600c934a50417145132a0182312d3fa60/tumblr_a935d7cacf17663f8bd18f49290abc1f_b3bc4138_1280.webp" alt="Profile Picture" width="200">
+</div>
   <h1>
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com/?font=Courier+Prime&size=35&color=000000&center=true&vCenter=true&width=800&height=70&duration=6000&lines=Hello+there!+I'm+Sakhile+🛸" />
@@ -30,7 +31,7 @@
 I am a software engineering student with a diverse skill set in various programming languages and technologies. I specialize in designing, developing, and maintaining software systems, with a focus on backend development.
 
 
-
+    
 <h4>Feel free to check out my repositories, open issues, and contribute if you're interested. Let's build something amazing together!</h4>
 
 <h3>Currently Working On</h3>
