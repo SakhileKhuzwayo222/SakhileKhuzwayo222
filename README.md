@@ -20,9 +20,15 @@ Languages:
 Database Management:
 [![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)
 MySQL
+
+
+
 API Development: 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 RESTful services using JSON
+
+
+
 Frameworks & Tools:
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 ASP.NET, Spring Boot
@@ -31,9 +37,19 @@ Frontend Integration:
 Languages: 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light&perline=3)](https://skillicons.dev)
 JavaScript
+
+
+
+
+
 Frameworks & Libraries:
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light&perline=3)](https://skillicons.dev)
 React.js, Bootstrap
+
+
+
+
+
 
 Web Technologies:
 [![My Skills](https://skillicons.dev/icons?i=css,html,figma,figma&theme=light&perline=3)](https://skillicons.dev)
