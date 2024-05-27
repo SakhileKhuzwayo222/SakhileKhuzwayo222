@@ -1,72 +1,65 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SakhileKhuzwayo222.visitor-badge&left_color=red&right_color=green" />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SakhileKhuzwayo222.visitor-badge&left_color=red&right_color=green" align="right" />
 
-<h1 align="center">
-   <a href="https://git.io/typing-svg">
-     <img src="https://readme-typing-svg.herokuapp.com/?font=Courier+Prime&size=35&color=000000&center=true&vCenter=true&width=800&height=70&duration=6000&lines=Hello+there!+Im+Sakhile+🛸" />
-     <img src="https://readme-typing-svg.herokuapp.com/?font=Courier+Prime&size=35&color=000000&center=true&vCenter=true&width=800&height=70&duration=7000&lines=and+this+is+my+GitHub+profile!" />
-   </a>
-</h1>
+  <h1>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Courier+Prime&size=35&color=000000&center=true&vCenter=true&width=800&height=70&duration=6000&lines=Hello+there!+I'm+Sakhile+🛸" />
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Courier+Prime&size=35&color=000000&center=true&vCenter=true&width=800&height=70&duration=7000&lines=Software+Engineering+Student" />
+    </a>
+  </h1>
+</div>
 
+I am a software engineering student with a diverse skill set in various programming languages and technologies. I specialize in designing, developing, and maintaining software systems, with a focus on backend development.
 
-I'm Sakhile Khuzwayo, a software engineering student with a diverse skill set in various programming languages and technologies. I design, develop, and maintain software systems, prioritizing mostly backend development.
-
-Here you'll find a variety of projects and repositories that reflect my journey and interests.
+Feel free to explore my repositories, which reflect my coding journey and interests.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,cs,kubernetes,dotnet,maven,mysql,php,graph1l,react,js,html,css,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=java,spring,cs,kubernetes,dotnet,maven,mysql,php,graphql,react,js,html,css,bootstrap" />
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align="left">Connect with Me</h2>
 
-<h2 align="left">My Social links</h2>
--[LinkedIn](https://www.linkedin.com/in/sakhilekhuzwayo222)
--[Email](mailto:sakhilekhuzwayo222@example.com)
-- [X (Twitter)](https://x.com/sakhilekhuzwayo222)
+- [LinkedIn](https://www.linkedin.com/in/sakhilekhuzwayo222)
+- [Email](mailto:sakhilekhuzwayo222@example.com)
+- [Twitter](https://twitter.com/sakhilekhuzwayo222)
 - [YouTube](https://youtube.com/sakhilekhuzwayo222)
 - [Instagram](https://instagram.com/sakhilekhuzwayo222)
 
-##Get In Touch!
+<h2 align="left">My Interests</h2>
 
-<h2 align="left">My interests</h2>
+- **Web Development**: Creating responsive and dynamic web applications.
+- **Machine Learning**: Exploring the potentials of AI and data analysis.
+- **Continuous Learning**: Always eager to learn new technologies and improve my skill set.
 
-🌐 Web Development:**
-Creating responsive and dynamic web applications.
+<h3>Currently Working On</h3>
 
-🤖 Machine Learning:**
-Exploring the potentials of AI and data analysis.
-
-📚 Continuous Learning:**
-Always eager to learn new technologies and improve my skill set.
-
-
-<h3> Currently working on:</h3>
-- Enhancing my skills in web development, DSA, and application development with a primary focus on SSR, APIs, Authentication and Authorization (AuthN and AuthZ), and database management.
+- Enhancing my skills in web development, data structures and algorithms, and application development with a primary focus on server-side rendering, APIs, authentication and authorization, and database management.
 - Exploring machine learning and contributing to open-source projects.
-  
-### GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SakhileKhuzwayo222&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SakhileKhuzwayo222&show_icons=true&theme=radical)
+<h3 align="center">GitHub Stats</h3>
 
-<h2 align="left">My contributions</h2>
-![Contributions Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SakhileKhuzwayo222&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SakhileKhuzwayo222&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
+<h2 align="left">My Contributions</h2>
 
-### 👯 Looking to collaborate on:
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contributions Snake" />
+</p>
+
+<h3>Looking to Collaborate On</h3>
+
 Exciting open-source projects and innovative tech solutions.
 
-### 💬 Ask me about:
-Web development, coding best practices, and the latest in tech trends.
+<h3>Ask Me About</h3>
 
+Web development, coding best practices, and the latest tech trends.
 
 Feel free to check out my repositories, open issues, and contribute if you're interested. Let's build something amazing together!
 
-
 Thank you for visiting my profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-
-
-
 
