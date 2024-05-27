@@ -36,6 +36,7 @@ I am a software engineering student with a diverse skill set in various programm
 - Enhancing my skills in web development, data structures and algorithms, and application development with a primary focus on server-side rendering, APIs, authentication and authorization, and database management.
 - Exploring machine learning and contributing to open-source projects.
 
+<h3>languages and frameworks</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,cs,kubernetes,dotnet,maven,mysql,php,graphql,react,js,html,css,bootstrap" />
