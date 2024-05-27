@@ -62,6 +62,14 @@ I am a software engineering student with a diverse skill set in various programm
 
 Exciting open-source projects and innovative tech solutions.
 
+## Badges
+
+Add badges from somewhere like: [shields.io](https://shields.io/)
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
 <h3>Ask Me About</h3>
 
 Web development, coding best practices, and the latest tech trends.
