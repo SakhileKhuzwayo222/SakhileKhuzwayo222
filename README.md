@@ -28,13 +28,8 @@
 I am a software engineering student with a diverse skill set in various programming languages and technologies. I specialize in designing, developing, and maintaining software systems, with a focus on backend development.
 
 
-Feel free to explore my repositories, which reflect my coding journey and interests.
 
-<h2 align="left">My Interests</h2>
-
-- **Web Development**: Creating responsive and dynamic web applications.
-- **Machine Learning**: Exploring the potentials of AI and data analysis.
-- **Continuous Learning**: Always eager to learn new technologies and improve my skill set.
+<h4>Feel free to explore my repositories, which reflect my coding journey and interests.</h4>
 
 <h3>Currently Working On</h3>
 
