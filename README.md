@@ -21,11 +21,23 @@ Feel free to explore my repositories, which reflect my coding journey and intere
 
 <h2 align="left">Connect with Me</h2>
 
-- [LinkedIn](https://www.linkedin.com/in/sakhilekhuzwayo222)
-- [Email](mailto:sakhilekhuzwayo222@example.com)
-- [Twitter](https://twitter.com/sakhilekhuzwayo222)
-- [YouTube](https://youtube.com/sakhilekhuzwayo222)
-- [Instagram](https://instagram.com/sakhilekhuzwayo222)
+<p align="center">
+  <a href="https://www.linkedin.com/in/sakhilekhuzwayo222" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:sakhilekhuzwayo222@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://twitter.com/sakhilekhuzwayo222" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://youtube.com/sakhilekhuzwayo222" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://instagram.com/sakhilekhuzwayo222" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
 
 <h2 align="left">My Interests</h2>
 
