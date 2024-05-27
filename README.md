@@ -17,18 +17,16 @@ Here you'll find a variety of projects and repositories that reflect my journey 
   </a>
 </p>
 
-📫 How to reach me:
+##📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/sakhilekhuzwayo222)
 - [Email](mailto:sakhilekhuzwayo222@example.com)
 - [X (Twitter)](https://x.com/sakhilekhuzwayo222)
 - [YouTube](https://youtube.com/sakhilekhuzwayo222)
 - [Instagram](https://instagram.com/sakhilekhuzwayo222)
 
+##Get In Touch!
 
-
-Get In Touch
-
-My Interests
+<h3 align=left>My Interests:</h3>
 
 🌐 Web Development:**
 Creating responsive and dynamic web applications.
