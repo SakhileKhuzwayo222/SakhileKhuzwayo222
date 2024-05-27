@@ -15,9 +15,10 @@ Im also exploring machine learning, and open-source contributions.
 Backend Development:
 Languages: 
 [![My Skills](https://skillicons.dev/icons?i=java,php,java,figma&theme=light)](https://skillicons.dev)
-C#, PHP, Java
+
+
 Database Management:
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)
 MySQL
 API Development: 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
