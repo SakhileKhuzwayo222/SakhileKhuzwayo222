@@ -47,7 +47,7 @@ Always eager to learn new technologies and improve my skill set.
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SakhileKhuzwayo222&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SakhileKhuzwayo222&show_icons=true&theme=radical)
 
-My contributions
+<h2 align="left">My contributions</h2>
 ![Contributions Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 
