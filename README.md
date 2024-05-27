@@ -13,7 +13,9 @@ Enhancing my skills in web development, DSA, and application development with a 
 Im also exploring machine learning, and open-source contributions.
 
 Backend Development:
+
 Languages: 
+
 [![My Skills](https://skillicons.dev/icons?i=java,php,java,figma&theme=light)](https://skillicons.dev)
 
 
