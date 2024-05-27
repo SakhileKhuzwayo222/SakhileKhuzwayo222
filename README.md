@@ -18,7 +18,9 @@ Here you'll find a variety of projects and repositories that reflect my journey 
   </a>
 </p>
 
-<h2 align="left">My contributions</h2>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+<h2 align="left">My Social links</h2>
 -[LinkedIn](https://www.linkedin.com/in/sakhilekhuzwayo222)
 -[Email](mailto:sakhilekhuzwayo222@example.com)
 - [X (Twitter)](https://x.com/sakhilekhuzwayo222)
