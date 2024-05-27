@@ -1,4 +1,3 @@
-+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SakhileKhuzwayo222.visitor-badge&left_color=red&right_color=green" align="right" />
 
@@ -8,6 +7,7 @@
     </a>
   </h1>
 </div>
+## 🔗 Links
 <p align="center">
   <a href="https://www.linkedin.com/in/sakhilekhuzwayo222" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
