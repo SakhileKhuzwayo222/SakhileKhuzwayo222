@@ -17,7 +17,7 @@ Here you'll find a variety of projects and repositories that reflect my journey 
   </a>
 </p>
 
-##📫 How to reach me:
+<h2 align="left">My contributions</h2>
 - [LinkedIn](https://www.linkedin.com/in/sakhilekhuzwayo222)
 - [Email](mailto:sakhilekhuzwayo222@example.com)
 - [X (Twitter)](https://x.com/sakhilekhuzwayo222)
@@ -26,7 +26,7 @@ Here you'll find a variety of projects and repositories that reflect my journey 
 
 ##Get In Touch!
 
-<h3 align=left>My Interests:</h3>
+<h2 align="left">My contributions</h2>
 
 🌐 Web Development:**
 Creating responsive and dynamic web applications.
