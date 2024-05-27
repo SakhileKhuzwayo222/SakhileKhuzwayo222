@@ -14,7 +14,7 @@ Im also exploring machine learning, and open-source contributions.
 
 Backend Development:
 Languages: 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,php,java,figma&theme=light)](https://skillicons.dev)
 C#, PHP, Java
 Database Management:
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
@@ -28,14 +28,14 @@ ASP.NET, Spring Boot
 
 Frontend Integration:
 Languages: 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light&perline=3)](https://skillicons.dev)
 JavaScript
 Frameworks & Libraries:
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light&perline=3)](https://skillicons.dev)
 React.js, Bootstrap
 
 Web Technologies:
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,html,figma,figma&theme=light&perline=3)](https://skillicons.dev)
 HTML, CSS
 
 👯 Looking to collaborate on: 
