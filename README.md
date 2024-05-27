@@ -59,7 +59,7 @@ Thank you for visiting my profile! 😊
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,cs,kubernetes,dotnet,maven,mysql,php,react,js,HTML,CSS,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=java,spring,cs,kubernetes,dotnet,maven,mysql,php,react,js,html,css,bootstrap" />
   </a>
 </p>
 
