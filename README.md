@@ -1,8 +1,5 @@
 
-<div align="center">
-<div align="center">
-  <img src="https://github.com/SakhileKhuzwayo222/SakhileKhuzwayo222/blob/9df6b9d600c934a50417145132a0182312d3fa60/tumblr_a935d7cacf17663f8bd18f49290abc1f_b3bc4138_1280.webp" alt="Profile Picture" width="400">
-</div>
+
   <h1>
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com/?font=Courier+Prime&size=35&color=000000&center=true&vCenter=true&width=800&height=70&duration=6000&lines=Hello+there!+I'm+Sakhile+🛸" />
