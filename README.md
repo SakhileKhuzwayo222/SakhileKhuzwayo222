@@ -1,7 +1,7 @@
 
 <div align="center">
 <div align="center">
-  <img src="https://github.com/SakhileKhuzwayo222/SakhileKhuzwayo222/blob/9df6b9d600c934a50417145132a0182312d3fa60/tumblr_a935d7cacf17663f8bd18f49290abc1f_b3bc4138_1280.webp" alt="Profile Picture" width="500">
+  <img src="https://github.com/SakhileKhuzwayo222/SakhileKhuzwayo222/blob/9df6b9d600c934a50417145132a0182312d3fa60/tumblr_a935d7cacf17663f8bd18f49290abc1f_b3bc4138_1280.webp" alt="Profile Picture" width="400">
 </div>
   <h1>
     <a href="https://git.io/typing-svg">
