@@ -1,9 +1,9 @@
 
 
   <h1>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Courier+Prime&size=35&color=000000&center=true&vCenter=true&width=800&height=70&duration=6000&lines=Hello+there!+I'm+Sakhile+🛸" />
-    </a>
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&color=FFFF00&center=true&vCenter=true&width=800&height=70&duration=6000&lines=Hello+there!+I'm+Sakhile+" />
+</a>
   </h1>
 </div>
 
