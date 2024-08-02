@@ -25,7 +25,7 @@
   </a>
 </p>
 </hr>
-I am a software engineering student with a diverse skill set in various programming languages and technologies. I specialize in designing, developing, and maintaining software systems, with a focus on backend development.
+I am a software development student with a diverse skill set in various programming languages and technologies. I specialize in designing, developing, and maintaining software systems, focusing on backend development, currently studying at Rosebank College Durban Campus.
 
 
     
