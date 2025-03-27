@@ -15,10 +15,11 @@
 </div>
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=SakhileKhuzwayo222&color=red)
 
 ## About Me
 
-I am a software development student at Rosebank College Durban Campus, specializing in designing, developing, and maintaining software systems. My focus is on backend development, with a diverse skill set in various programming languages and technologies.
+I am a software development student at Rosebank College Durban Campus. I specialize in designing, developing, and maintaining software systems. My focus is on backend development, and I have a diverse skill set in various programming languages and technologies.
 
 > Feel free to check out my repositories, open issues, and contribute if you're interested. Let's build something amazing together!
 
