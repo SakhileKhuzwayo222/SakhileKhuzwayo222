@@ -62,9 +62,11 @@ Backend
 <div align="center"> <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="65" height="65" alt="Kubernetes" /> 
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" /> 
   <img src="https://techstack-generator.vercel.app/git-icon.svg" width="65" height="65" alt="Git" /> 
-  <img src="https://techstack-generator.vercel.app/maven-icon.svg" width="65" height="65" alt="Maven" /> 
-  <img src="https://techstack-generator.vercel.app/vscode-icon.svg" width="65" height="65" alt="VS Code" /> 
-  <img src="https://techstack-generator.vercel.app/intellij-icon.svg" width="65" height="65" alt="IntelliJ IDEA" /> </div>
+  <img src="https://skillicons.dev/icons?i=maven" alt="DevOps Skills" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="DevOps Skills" />
+  <img src="https://skillicons.dev/icons?i=intellij" alt="DevOps Skills" />
+ 
+</div>
 <!-- Rest of the content remains the same -->
 
 # GitHub Stats
