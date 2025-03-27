@@ -52,9 +52,9 @@ I am a software development student at Rosebank College Durban Campus. I special
 
 🗄 Databases
 <div align="center"> 
+  <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=postgresql" alt="Database Skills" /> </a>
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" /> 
-  <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" width="65" height="65" alt="MongoDB" /> 
-  <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" width="65" height="65" alt="PostgreSQL" /> 
+<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=mongodb" alt="Database Skills" /> </a>
 </div>
 
 🚀 DevOps & Tools
