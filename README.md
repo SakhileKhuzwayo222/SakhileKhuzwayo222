@@ -31,11 +31,20 @@ I am a software development student at Rosebank College Durban Campus. I special
 
 🚀 Languages and Frameworks
 🎨 Frontend
-<div align="center"> <img src="https://techstack-generator.vercel.app/html-icon.svg" width="65" height="65" alt="HTML" /> <img src="https://techstack-generator.vercel.app/css-icon.svg" width="65" height="65" alt="CSS" /> <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" /> <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React" /> <img src="https://techstack-generator.vercel.app/bootstrap-icon.svg" width="65" height="65" alt="Bootstrap" /> </div>
+<div align="center"> 
+  <img src="https://techstack-generator.vercel.app/html-icon.svg" width="65" height="65" alt="HTML" /> <img src="https://techstack-generator.vercel.app/css-icon.svg" width="65" height="65" alt="CSS" /> <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" /> <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React" /> <img src="https://techstack-generator.vercel.app/bootstrap-icon.svg" width="65" height="65" alt="Bootstrap" /> 
+</div>
+
 🛠 Backend
-<div align="center"> <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="Java" /> <img src="https://techstack-generator.vercel.app/spring-icon.svg" width="65" height="65" alt="Spring" /> <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65" height="65" alt="C#" /> <img src="https://techstack-generator.vercel.app/dotnet-icon.svg" width="65" height="65" alt=".NET" /> <img src="https://techstack-generator.vercel.app/php-icon.svg" width="65" height="65" alt="PHP" /> <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="65" height="65" alt="GraphQL" /> </div>
+<div align="center"> 
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="Java" /> <img src="https://techstack-generator.vercel.app/spring-icon.svg" width="65" height="65" alt="Spring" /> <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65" height="65" alt="C#" /> <img src="https://techstack-generator.vercel.app/dotnet-icon.svg" width="65" height="65" alt=".NET" /> <img src="https://techstack-generator.vercel.app/php-icon.svg" width="65" height="65" alt="PHP" /> <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="65" height="65" alt="GraphQL" /> 
+</div>
+
 🗄 Databases
-<div align="center"> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" /> <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" width="65" height="65" alt="MongoDB" /> <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" width="65" height="65" alt="PostgreSQL" /> </div>
+<div align="center"> 
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" /> <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" width="65" height="65" alt="MongoDB" /> <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" width="65" height="65" alt="PostgreSQL" /> 
+</div>
+
 🚀 DevOps & Tools
 <div align="center"> <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="65" height="65" alt="Kubernetes" /> <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" /> <img src="https://techstack-generator.vercel.app/git-icon.svg" width="65" height="65" alt="Git" /> <img src="https://techstack-generator.vercel.app/maven-icon.svg" width="65" height="65" alt="Maven" /> <img src="https://techstack-generator.vercel.app/vscode-icon.svg" width="65" height="65" alt="VS Code" /> <img src="https://techstack-generator.vercel.app/intellij-icon.svg" width="65" height="65" alt="IntelliJ IDEA" /> </div>
 <!-- Rest of the content remains the same -->
