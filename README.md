@@ -63,11 +63,9 @@ DevOps & Tools
 </p>
 <div style="text-align: center;">
   <div style="display: inline-block; height: 100%;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=SakhileKhuzwayo222&show_icons=true&theme=dracula&locale=en&layout=compact" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=SakhileKhuzwayo222&show_icons=true&locale=en&layout=compact" />
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SakhileKhuzwayo222&show_icons=true&theme=dracula&locale=en&layout=compact" alt="otavio-sousa" style="height:200px;"/>
-    </picture>
+    <picture>     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=SakhileKhuzwayo222&show_icons=true&theme=dracula&locale=en&layout=compact"/>
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=SakhileKhuzwayo222&show_icons=true&locale=en&layout=compact" />
+          <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SakhileKhuzwayo222&show_icons=true&theme=dracula&locale=en&layout=compact" alt="otavio-sousa" style="height:200px;"/></picture>
   </div>
 
 
