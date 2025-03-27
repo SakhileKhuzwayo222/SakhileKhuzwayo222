@@ -29,8 +29,9 @@ I am a software development student at Rosebank College Durban Campus. I special
 - Focusing on server-side rendering, APIs, authentication and authorization, and database management
 - Exploring machine learning and contributing to open-source projects
 
-🚀 Languages and Frameworks
-🎨 Frontend
+## Languages and Frameworks
+
+Frontend
 <div align="center"> 
   <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html" alt="Frontend Skills" /> </a>
    <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" /> 
@@ -39,7 +40,7 @@ I am a software development student at Rosebank College Durban Campus. I special
   <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="Frontend Skills" /> </a>
 </div>
 
-🛠 Backend
+Backend
 <div align="center"> 
   <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="Java" />  
 <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=php" alt="Backend Skills" /> </a>
