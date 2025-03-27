@@ -31,7 +31,7 @@ I am a software development student at Rosebank College Durban Campus. I special
 
 ## Languages and Frameworks
 
-# Frontend
+#### Frontend
 
 <div align="center"> 
   <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html" alt="Frontend Skills" /> </a>
@@ -41,7 +41,7 @@ I am a software development student at Rosebank College Durban Campus. I special
   <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="Frontend Skills" /> </a>
 </div>
 
-# Backend
+### Backend
 
 <div align="center"> 
   <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="Java" />  
@@ -53,7 +53,7 @@ I am a software development student at Rosebank College Durban Campus. I special
 
 </div>
 
-# Databases
+### Databases
 
 <div align="center"> 
   <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=postgresql" alt="Database Skills" /> </a>
@@ -61,7 +61,7 @@ I am a software development student at Rosebank College Durban Campus. I special
 <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=mongodb" alt="Database Skills" /> </a>
 </div>
 
-# DevOps & Tools
+### DevOps & Tools
 
 <div align="center"> 
   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="65" height="65" alt="Kubernetes" /> 
