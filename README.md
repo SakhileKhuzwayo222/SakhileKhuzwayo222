@@ -102,7 +102,7 @@ I am a software development student at Rosebank College Durban Campus. I special
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contributions Snake" />
 </p>
-![github contribution grid snake animation](https://raw.githubusercontent.com/SakhileKhuzwayo222/YSakhileKhuzwayo222/output/github-contribution-grid-snake.svg)
+
 
 
 ## Looking to Collaborate On
