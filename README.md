@@ -33,8 +33,8 @@ I am a software development student at Rosebank College Durban Campus. I special
 🎨 Frontend
 <div align="center"> 
   <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html" alt="Frontend Skills" /> </a>
+   <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" /> 
    <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=css" alt="Frontend Skills" /> </a>
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" /> 
   <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React" /> 
   <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="Frontend Skills" /> </a>
 </div>
