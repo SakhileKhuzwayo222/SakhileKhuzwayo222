@@ -39,6 +39,7 @@ I am a software development student at Rosebank College Durban Campus. I special
    <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=css" alt="Frontend Skills" /> </a>
   <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React" /> 
   <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="Frontend Skills" /> </a>
+   <img src="https://raw.githubusercontent.com/remix-run/react-router/main/docs/branding/logo-color.png" alt="React Router" width="50" height="50"/>
 </div>
 
 ### Backend
