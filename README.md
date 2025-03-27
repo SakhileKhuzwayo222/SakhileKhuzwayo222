@@ -42,10 +42,10 @@ I am a software development student at Rosebank College Durban Campus. I special
 🛠 Backend
 <div align="center"> 
   <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="Java" /> 
-  <img src="https://techstack-generator.vercel.app/spring-icon.svg" width="65" height="65" alt="Spring" /> 
+<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=spring" alt="Backend Skills" /> </a>
   <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65" height="65" alt="C#" /> 
-  <img src="https://techstack-generator.vercel.app/dotnet-icon.svg" width="65" height="65" alt=".NET" /> 
-  <img src="https://techstack-generator.vercel.app/php-icon.svg" width="65" height="65" alt="PHP" /> 
+<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=dotnet" alt="Backend Skills" /> </a>
+<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=php" alt="Backend Skills" /> </a>
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="65" height="65" alt="GraphQL" /> 
 </div>
 
