@@ -59,10 +59,11 @@ Backend
 </div>
 
 🚀 DevOps & Tools
-<div align="center"> <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="65" height="65" alt="Kubernetes" /> 
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" /> 
-  <img src="https://techstack-generator.vercel.app/git-icon.svg" width="65" height="65" alt="Git" /> 
+<div align="center"> 
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="65" height="65" alt="Kubernetes" /> 
+  <img src="https://skillicons.dev/icons?i=git" alt="DevOps Skills" />
   <img src="https://skillicons.dev/icons?i=maven" alt="DevOps Skills" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" /> 
   <img src="https://skillicons.dev/icons?i=vscode" alt="DevOps Skills" />
   <img src="https://skillicons.dev/icons?i=intellij" alt="DevOps Skills" />
  
