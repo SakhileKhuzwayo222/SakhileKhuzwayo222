@@ -73,7 +73,19 @@ DevOps & Tools
 
 ## Looking to Collaborate On
 
-Exciting open-source projects and innovative tech solutions.
+I'm open to collaborating on exciting open-source projects and innovative tech solutions that push the boundaries of software development. If you’re working on something cutting-edge, let’s build something amazing together!
+
+🔹 Areas of Interest:
+
+Open-source development
+
+AI & machine learning integrations
+
+Scalable web applications
+
+Cloud-based microservices
+
+Game development & interactive experiences
 
 ## Badges
 
