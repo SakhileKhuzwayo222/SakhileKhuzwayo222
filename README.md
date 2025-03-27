@@ -57,7 +57,7 @@ DevOps & Tools
 <!-- Rest of the content remains the same -->
 
 🔥 GitHub Stats
-<p align="center"> <a href="https://github.com/SakhileKhuzwayo222"> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SakhileKhuzwayo222&theme=radical&hide_border=true" /> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SakhileKhuzwayo222&show_icons=true&theme=radical&hide_border=true" /> </a> </p>
+<p align="center"> <a href="https://github.com/SakhileKhuzwayo222"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SakhileKhuzwayo222&show_icons=true&theme=radical&hide_border=true" /> </a> </p>
 
 📊 Most Used Languages
 <p align="center"> <a href="https://github.com/SakhileKhuzwayo222"> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SakhileKhuzwayo222&layout=compact&theme=radical&hide_border=true" /> </a> </p>
