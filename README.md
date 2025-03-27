@@ -29,31 +29,15 @@ I am a software development student at Rosebank College Durban Campus. I special
 - Focusing on server-side rendering, APIs, authentication and authorization, and database management
 - Exploring machine learning and contributing to open-source projects
 
-# Languages and Frameworks
-Frontend
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" alt="Frontend Skills" />
-  </a>
-</p>
-Backend
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,php,graphql" alt="Backend Skills" />
-  </a>
-</p>
-Databases
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" alt="Database Skills" />
-  </a>
-</p>
-DevOps & Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kubernetes,docker,git,maven,vscode,intellij" alt="DevOps Skills" />
-  </a>
-</p>
+🚀 Languages and Frameworks
+🎨 Frontend
+<div align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" alt="Frontend Skills" /> </a> </div>
+🛠 Backend
+<div align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,php,graphql" alt="Backend Skills" /> </a> </div>
+🗄 Databases
+<div align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" alt="Database Skills" /> </a> </div>
+🚀 DevOps & Tools
+<div align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=kubernetes,docker,git,maven,vscode,intellij" alt="DevOps Skills" /> </a> </div>
 <!-- Rest of the content remains the same -->
 
 # GitHub Stats
