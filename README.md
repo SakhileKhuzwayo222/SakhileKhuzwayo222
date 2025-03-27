@@ -62,7 +62,7 @@ DevOps & Tools
 📊 Most Used Languages
 <p align="center"> <a href="https://github.com/SakhileKhuzwayo222"> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SakhileKhuzwayo222&layout=compact&theme=radical&hide_border=true" /> </a> </p>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SakhileKhuzwayo222&theme=radical)
+
 
 
 ## My Contributions
