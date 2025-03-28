@@ -34,6 +34,9 @@ I am a software development student at Rosebank College Durban Campus. I special
 - Focusing on server-side rendering, APIs, authentication and authorization, and database management
 - Exploring machine learning and contributing to open-source projects
 
+  ![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=Sakhil.e&cover_image=true&theme=default)
+
+
 ## Languages and Frameworks
 
 #### Frontend
