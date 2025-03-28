@@ -33,6 +33,7 @@ I am a software development student at Rosebank College Durban Campus. I special
 - Enhancing my skills in web development, data structures and algorithms, and application development
 - Focusing on server-side rendering, APIs, authentication and authorization, and database management
 - Exploring machine learning and contributing to open-source projects
+[![Spotify](https://novatorem-sakhile.vercel.app/api/spotify)](https://open.spotify.com/user/315azipndl2zbbobn654qiiedcr4)
 
 ![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=315azipndl2zbbobn654qiiedcr4&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)
 
