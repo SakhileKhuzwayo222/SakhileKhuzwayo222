@@ -95,8 +95,6 @@ I am a software development student at Rosebank College Durban Campus. I special
 </p>
 
 
-
-
 ## My Contributions
 
 <p align="center">
@@ -104,22 +102,17 @@ I am a software development student at Rosebank College Durban Campus. I special
 </p>
 
 
-
 ## Looking to Collaborate On
 
 I'm open to collaborating on exciting open-source projects and innovative tech solutions that push the boundaries of software development. If you’re working on something cutting-edge, let’s build something amazing together!
 
-🔹 Areas of Interest:
+# Areas of Interest:
 
-Open-source development
-
-AI & machine learning integrations
-
-Scalable web applications
-
-Cloud-based microservices
-
-Game development & interactive experiences
+- Open-source development
+- AI & machine learning integrations
+- Scalable web applications
+- Cloud-based microservices
+- Game development & interactive experiences
 
 ## Badges
 
